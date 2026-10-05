@@ -1,0 +1,19 @@
+# Matlab and Simulink Auto-Generated Files
+
+*.slxc
+*.asv
+*.m~
+*.autosave
+*.mex*
+slprj/
+
+# Embedded Coder Build & code generation directories
+CabinTempController_ert_rtw/
+*_ert_rtw/
+*_grt_rtw/
+*.code/
+
+# operating system temporary files
+
+Thumbs.db
+.DS_Store
